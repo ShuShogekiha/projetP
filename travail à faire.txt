@@ -1,0 +1,21 @@
+Liste à faire:
+    - Rajouter des descriptions + leur prix pour toutes les tables
+    - mettre les images correspondant au nom des consommables     ///// (fait)
+    - Améliorer le graphisme (css)    ///// (fait)
+    - completer la création des pages  ///// (fait)
+    - Dans Index.php, demander à ton maître de stage de te donner une liste des 10 promo à l'heure actuelle
+        list:
+            1-Gifrer liniment (-1€)
+            2-Dermasoin Huile lavante relipidante (-1€)
+            3-Meridol protection gencives dentifrice (2 pour le prix d'un)
+            4-
+            5-
+    - faire une page pour la connexion ou creation de compte (visuel) ///// (fait)
+
+Extra:
+    - Faire la page Panier (visuel) (+ demo en paint)
+
+
+
+
+DEAD LINE 22/11/2022 (Soit le Mardi 22 Novembre 2022) à 18h00
